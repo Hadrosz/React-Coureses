@@ -4,7 +4,7 @@ import TwitterFollowCard from './TwitterFollowCard'
 const users = [
   {
     username: 'johnsmith',
-    name: 'John Smith',
+    name: 'Alejandro Vasquez',
     isFollowing: true,
   },
   {
